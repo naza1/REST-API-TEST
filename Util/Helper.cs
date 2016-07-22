@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HypermediaApiTests.Util
 {
-	public static class Helper
+    public static class Helper
 	{
 		public static HttpClient httpClient = new HttpClient { BaseAddress = new Uri(ConfigUtil.GetString("hypermedia_Api_Url")) };
 
