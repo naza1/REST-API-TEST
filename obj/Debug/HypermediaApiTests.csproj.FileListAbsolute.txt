@@ -1,0 +1,12 @@
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\HypermediaApiTests.dll.config
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\HypermediaApiTests.dll
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\HypermediaApiTests.pdb
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\obj\Debug\HypermediaApiTests.csprojResolveAssemblyReference.cache
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\obj\Debug\HypermediaApiTests.dll
+C:\Users\nreal\Desktop\API-REST-Framework-Test-master\obj\Debug\HypermediaApiTests.pdb
